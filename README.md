@@ -7,18 +7,18 @@ This assignment explored a database of 1,000 sample projects on a crowdfunding p
   - Mircosoft Excel
 
 ## Conditional Formatting and Column Creation 
-In this section, conditional formatting is applied to the 'outcome' column and 'percent funded' column. Six new columns were created for: 'percent funded', 'average donation', 'category', 'sub-category', 'Date Created Conversion' and 'Date Ended Conversion'. 
+In this section, conditional formatting is applied to the 'outcome' column and the 'percent funded' column. Six new columns were created for: 'percent funded,' 'average donation,' 'category,' 'sub-category,' 'Date Created Conversion,' and 'Date Ended Conversion.'
 
 ![conditional-columns](https://github.com/andreaira261/excel-challenge/assets/48165713/ba54b004-7d1b-4fac-868c-9f605c22b853)
 
 ## Pivot Tables, Stacked Column Charts, and Line Graphs Creation
 
-In this visualization, a pivot table was created that counts how many campaigns were "successful," "failed," "canceled," or are currently "live" per 'Parent Category'. Additionally, a stacked column pivot chart was created that can be filtered by 'country'. 
+In this visualization, a pivot table was created to count how many campaigns were "successful," "failed," "canceled," or are currently "live" per 'Parent Category.' Additionally, a stacked column pivot chart was generated, which can be filtered by 'country.'
 ![pivot-2](https://github.com/andreaira261/excel-challenge/assets/48165713/0529b6da-9744-4dc3-a996-3f1f3a4e4762)
 <br>
 <br>
 
-In this visualization, a pivot table was created with a column of 'outcome', rows of 'Date Created Conversion', and values based on the count of 'outcome'. A filter was added based on the 'Parent Category' and 'Year'. A corresponding pivot chart line graph is also displayed. 
+In this visualization, a pivot table was created with a column of 'outcome,' rows of 'Date Created Conversion,' and values based on the count of 'outcome.' A filter was added based on the 'Parent Category' and 'Year.' A corresponding pivot chart line graph is also displayed.
 ![pivot-3](https://github.com/andreaira261/excel-challenge/assets/48165713/4d568320-3f1a-490d-95ef-9167a7b684c2C)
 
 ## Analysis Report
@@ -41,7 +41,7 @@ Other possible tables and graphs that could be created based on this data are:
 -	This would provide information on the more frequent duration for launching projects and whether the number of days affect the outcome of the campaign. 
 
 ## Crowdfunding Goal Analysis 
-In this section, calculations of percentages for projects that were successful, failed, or canced per goal range were calculated. A line chart is created to show the relationship between the goal's amount and its chances at success, failure, or cancellation. 
+In this section, percentages for projects that were successful, failed, or canceled per goal range were calculated. A line chart is created to illustrate the relationship between the goal amount and the likelihood of success, failure, or cancellation.
 ![goal-analysis](https://github.com/andreaira261/excel-challenge/assets/48165713/3b3520c3-8d17-441b-93e6-7b66516e5bc0)
 
 ## Statistical Analysis 
