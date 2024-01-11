@@ -1,7 +1,7 @@
 # Crowdfunding Analysis
 
 ## Overview
-This assignment uses Microsoft Excel and covers aspects such as conditional formatting, column creation, pivot tables, stacked column charts, line graphs, written analysis, goal analysis, and statistical analysis for a database of 1,000 sample projects. It involves creating and analyzing various visualizations and presenting cohesive insights in a written report, including conclusions, dataset limitations, and suggestions.
+This assignment explored a database of 1,000 sample projects on a crowdfunding platform to analyze patterns or trends associated with project success. Microsoft Excel was utilized for a range of tasks, including conditional formatting, column creation, pivot tables, stacked column charts, line graphs, and statistical analysis. It involves creating and analyzing various visualizations and presenting cohesive insights in a written report, including conclusions, dataset limitations, and suggestions.
 
 ## Languages/ Tools: 
   - Mircosoft Excel
